@@ -1,0 +1,19 @@
+Step 1: 
+    -Used git-basics repository from 'git set up practice' assignment
+
+Step 2:
+    -Updated README file
+    -Adding this file to local folder
+
+Step 3: 
+    -Check status using 'git status'
+        -modified README.md
+        -untracked basic_git_commands.txt
+    -Stage files using 'git add README.md' and 'git add basic_git_commands.txt'
+
+Step 4:
+    -committed changes using 'git commit -m "modified readme and added file for basic_git_commands assignment"'
+
+Step 5:
+    -push commit using 'git push'
+
