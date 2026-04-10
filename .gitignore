@@ -1,0 +1,9 @@
+#individual files
+ignore_this.txt
+
+#directories
+ignoreme/
+
+#patterns
+*.doc
+docll[l].txt
